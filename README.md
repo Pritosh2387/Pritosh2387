@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @Pritosh2387
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Welcome to my github page
+- 👋 *Hi*, I’m **PRITOSH BURMAN**, an **undergrad student in BTech (computer science and engineering)** at **DELHI TECHOLOGICAL UNIVERSITY (DTU)**.
+- 👀 *I’m interested in* exploring different domains of technologies.
+- 🌱 *I’m currently learning* **data structure and algorithms** and exploring **full stack web development**.
+- 📫 *How to reach me?* <br> EmailId: pritoshburman2387@gmail.com
+## Familier technologies
+- C, PYTHON, HTML, CSS,C++
 
 <!---
-Pritosh2387/Pritosh2387 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+narayn9/narayn9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
