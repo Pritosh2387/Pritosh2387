@@ -5,6 +5,8 @@
 🚀 Aspiring **Software Engineer**
 
 ---
+## 🧑‍💻 Languages Used
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pritosh2387&layout=compact&theme=radical)
 
 ## 🧠 About Me
 - I enjoy solving **DSA problems in C++** and understanding the logic behind them
