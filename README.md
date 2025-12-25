@@ -6,28 +6,57 @@
 
 ---
 
+## 📊 GitHub Overview
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pritosh2387&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pritosh2387&theme=radical&hide_border=true" height="180"/>
+</p>
+
+---
+
 ## 🧑‍💻 Languages Used
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pritosh2387&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritosh2387&layout=compact&theme=radical&hide_border=true" height="170"/>
+</p>
 
 ---
 
 ## 🧠 About Me
-- I enjoy solving **DSA problems in C++** and understanding the logic and trade-offs behind algorithms.
-- Strong interest in **Machine Learning fundamentals** and applying them to real-world problems.
-- Focused on building **strong Computer Science foundations** including **DSA, OS, DBMS, and Computer Networks**.
-- Believe in **consistent learning and deep understanding over shortcuts**.
+- I enjoy solving **DSA problems in C++** and understanding the logic behind algorithms.
+- Strong interest in **Machine Learning fundamentals** and real-world applications.
+- Focused on building **strong CS foundations** (DSA, OS, DBMS, CN).
+- Believe in **consistency, depth, and discipline** over shortcuts.
 
 ---
 
 ## 🛠️ Skills & Technologies
 - **Languages:** C, C++, Python, Golang  
-- **Core CS:** Data Structures & Algorithms, OOPs, Operating Systems, DBMS, Computer Networks  
-- **Machine Learning:** 
+- **Core CS:** DSA, OOPs, OS, DBMS, CN  
+- **Machine Learning:**  
+
+---
+
+## 🏆 Achievements & Activity
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pritosh2387&theme=radical&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pritosh2387&theme=redical)
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pritosh2387&style=flat-square&color=red"/>
+</p>
 
 ---
 
 ## 📫 Connect With Me
-- 💻 GitHub: [https://github.com/Pritosh2387](https://github.com/Pritosh2387)  
+- 💻 GitHub: [https://github.com/Pritosh2387](https://github.com/Pritosh2387)
 - 💼 LinkedIn: [https://www.linkedin.com/in/pritosh-burman-113b58339/](https://www.linkedin.com/in/pritosh-burman-113b58339/)
 
 ---
