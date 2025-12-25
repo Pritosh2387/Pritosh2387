@@ -1,14 +1,8 @@
 # 👋 Hi, I'm Pritosh Burman
 
 🎓 **B.Tech Student** at **Delhi Technological University (DTU)**  
-💻 Interested in **Data Structures & Algorithms, Machine Learning, and Backend Development**  
+💻 Interested in **Data Structures & Algorithms, Machine Learning**  
 🚀 Aspiring **Software Engineer**
-
----
-## 🛠️ Skills & Technologies
-- **Languages:** C, C++, Python, Golang  
-- **Core CS:** DSA, OOPs, OS, DBMS, CN  
-- **Machine Learning:**  
 
 ---
 
