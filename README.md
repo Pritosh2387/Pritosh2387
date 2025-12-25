@@ -5,14 +5,6 @@
 🚀 Aspiring **Software Engineer**
 
 ---
-## 🧠 About Me
-- I enjoy solving **DSA problems in C++** and understanding the logic behind algorithms.
-- Strong interest in **Machine Learning fundamentals** and real-world applications.
-- Focused on building **strong CS foundations** (DSA, OS, DBMS, CN).
-- Believe in **consistency, depth, and discipline** over shortcuts.
-
----
-
 ## 🛠️ Skills & Technologies
 - **Languages:** C, C++, Python, Golang  
 - **Core CS:** DSA, OOPs, OS, DBMS, CN  
