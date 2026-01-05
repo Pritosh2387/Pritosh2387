@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Pritosh Burman
 
 🎓 **B.Tech Student** at **Delhi Technological University (DTU)**  
-💻 Interested in **Data Structures & Algorithms, Machine Learning**  
+💻 Interested in **Machine Learning**  
 🚀 Aspiring **Software Engineer**
 
 ---
