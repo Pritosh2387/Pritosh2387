@@ -11,21 +11,10 @@
 
 ---
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pritosh2387&theme=radical&hide_border=true)
-
----
-
 ## 🧠 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pritosh2387&layout=compact&theme=radical&hide_border=true)
 
 ---
-
-## 🏆 GitHub Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Pritosh2387&theme=radical&no-frame=true&margin-w=15)
-
----
-
 ## 📈 Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pritosh2387&theme=redical&hide_border=true)
 
