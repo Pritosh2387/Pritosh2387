@@ -12,7 +12,7 @@
 ---
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Pritosh2387&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pritosh2387&theme=radical&hide_border=true)
 
 ---
 
@@ -22,7 +22,7 @@
 ---
 
 ## 🏆 GitHub Achievements
-![trophy](https://github-profile-trophy.vercel.app/?username=Pritosh2387&theme=radical&no-frame=true&row=1&column=6)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Pritosh2387&theme=radical&no-frame=true&margin-w=15)
 
 ---
 
