@@ -6,18 +6,35 @@
 
 ---
 
-## 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pritosh2387&theme=redical)
+## 📊 GitHub Stats
+![Pritosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pritosh2387&show_icons=true&theme=radical&hide_border=true)
 
 ---
->
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Pritosh2387&theme=radical&hide_border=true)
+
+---
+
+## 🧠 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pritosh2387&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 🏆 GitHub Achievements
+![trophy](https://github-profile-trophy.vercel.app/?username=Pritosh2387&theme=radical&no-frame=true&row=1&column=6)
+
+---
+
+## 📈 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pritosh2387&theme=redical&hide_border=true)
 
 ---
 
 ## 📫 Connect With Me
-- 💻 GitHub: [https://github.com/Pritosh2387](https://github.com/Pritosh2387)
-- 💼 LinkedIn: [https://www.linkedin.com/in/pritosh-burman-113b58339/](https://www.linkedin.com/in/pritosh-burman-113b58339/)
+- 💻 GitHub: https://github.com/Pritosh2387  
+- 💼 LinkedIn: https://www.linkedin.com/in/pritosh-burman-113b58339/
 
 ---
 
-⭐ *Always learning. Always improving.*
+⭐ **Always learning. Always improving.**
