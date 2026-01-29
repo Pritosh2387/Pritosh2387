@@ -20,8 +20,7 @@
 
 ---
 
-## 📫 Connect With Me
-- 💻 GitHub: https://github.com/Pritosh2387  
+## 📫 Connect With Me 
 - 💼 LinkedIn: https://www.linkedin.com/in/pritosh-burman-113b58339/
 
 ---
