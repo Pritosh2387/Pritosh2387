@@ -6,10 +6,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pritosh2387&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pritosh2387&show_icons=true&theme=radical&count_private=true" height="170"/>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pritosh2387&layout=compact&theme=radical" height="170"/>
 </p>
----
 
 ## 🔥 GitHub Streak
 
