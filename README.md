@@ -21,8 +21,7 @@
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pritosh2387&theme=radical&hide_border=true)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pritosh2387&theme=redical&hide_border=true)
 ---
 
 
