@@ -1,26 +1,6 @@
 # 👋 Hi, I'm Pritosh Burman
 
 ---
-## 📈 Leetcode Stats
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=flamefit32&show_icons=true&theme=tokyonight" 
-    height="165"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=flamefit32&layout=compact&theme=tokyonight" 
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://leetcard.jacoblin.cool/flamefit32?theme=dark&font=Consolas&ext=contest" 
-    alt="LeetCode Stats"
-  />
-</p>
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -40,6 +20,25 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pritosh2387&theme=redical&hide_border=true)
 ---
+## 📈 Leetcode Stats
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=flamefit32&show_icons=true&theme=tokyonight" 
+    height="165"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=flamefit32&layout=compact&theme=tokyonight" 
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://leetcard.jacoblin.cool/flamefit32?theme=dark&font=Consolas&ext=contest" 
+    alt="LeetCode Stats"
+  />
+</p>
 
 
 ## 📫 Connect With Me 
