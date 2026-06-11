@@ -22,20 +22,8 @@
 ---
 ## 📈 Leetcode Stats
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=flamefit32&show_icons=true&theme=tokyonight" 
-    height="165"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=flamefit32&layout=compact&theme=tokyonight" 
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://leetcard.jacoblin.cool/flamefit32?theme=dark&font=Consolas&ext=contest" 
+  <img
+    src="https://leetcard.jacoblin.cool/FlameFit32?theme=dark&font=Consolas&ext=contest"
     alt="LeetCode Stats"
   />
 </p>
