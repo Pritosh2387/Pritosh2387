@@ -13,33 +13,33 @@
 
 ---
 
-## 📊 GitHub Stats
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pritosh2387&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
 
+---
+
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pritosh2387&show_icons=true&theme=radical&count_private=true" height="170" alt="GitHub Stats" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pritosh2387&layout=compact&theme=radical" height="170" alt="Top Languages" />
 </p>
 
-## 🔥 GitHub Streak
+---
 
+## 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Pritosh2387&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## 🏆 GitHub Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pritosh2387&theme=radical" alt="GitHub Summary Card" />
-</p>
-
 ---
 
-## 📈 Contribution Graph
 
+## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pritosh2387&theme=radical&hide_border=true" alt="Activity Graph" />
 </p>
-
 ---
 
 ## 📈 LeetCode Stats
@@ -49,7 +49,8 @@
 
 ---
 
-## 📫 Connect With Me 
+
+## 📫 Connect With Me
 - 💼 **LinkedIn:** [Pritosh Burman](https://www.linkedin.com/in/pritosh-burman-113b58339/)
 
 ---
