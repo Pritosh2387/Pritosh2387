@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Pritosh Burman
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Pritosh2387&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ### 🛠️ Languages & Tools
