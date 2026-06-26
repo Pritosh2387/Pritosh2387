@@ -42,7 +42,7 @@
 </p>
 ---
 
-## 📈 LeetCode Stats
+## LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/FlameFit32?theme=dark&font=Consolas&ext=contest" alt="LeetCode Stats" />
 </p>
