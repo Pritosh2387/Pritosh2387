@@ -28,8 +28,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pritosh2387&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pritosh2387&layout=compact&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Pritosh2387&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pritosh2387&layout=compact&theme=radical&hide_border=true" height="180" />
 </p>
 
 ---
