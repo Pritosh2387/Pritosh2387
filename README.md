@@ -42,10 +42,10 @@
 
 ---
 
-## 📈 Contribution Graph
+## ⚡ GitHub Activity
 
 <p align="center">
-  <img src="https://ghchart.xqsit94.in/dark:default/Pritosh2387" alt="Pritosh Burman's GitHub Contributions" />
+  <img src="https://samdev-pulse.vercel.app/api/profile?username=Pritosh2387&theme=dracula" alt="GitHub Profile Activity" />
 </p>
 
 ---
@@ -64,9 +64,11 @@
   <a href="https://www.linkedin.com/in/pritosh-burman-113b58339/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://github.com/Pritosh2387">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <a href="https://leetcode.com/FlameFit32">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
