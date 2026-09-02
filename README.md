@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Pritosh2387&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Pritosh2387)
+[![Profile Views](https://komarev.com/ghpvc/?username=Pritosh2387\&color=blueviolet\&style=for-the-badge\&label=PROFILE+VIEWS)](https://github.com/Pritosh2387)
 
 </div>
 
@@ -28,8 +28,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Pritosh2387&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" height="180" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pritosh2387&layout=compact&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pritosh2387&theme=radical" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pritosh2387&theme=radical" height="180" />
 </p>
 
 ---
@@ -37,7 +37,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pritosh2387&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.demolab.com/?user=Pritosh2387&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pritosh2387&theme=radical&hide_border=true&area=true" />
+  <img src="https://ghchart.xqsit94.in/dark:default/Pritosh2387" alt="Pritosh Burman's GitHub Contributions" />
 </p>
 
 ---
