@@ -1,7 +1,6 @@
 <div align="center">
 
 # 👋 Hey there, I'm Pritosh Burman
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Competitive+Programmer;ML+%2F+AI+Enthusiast;Full+Stack+Developer;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
