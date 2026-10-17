@@ -6,8 +6,7 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Pritosh2387\&color=blueviolet\&style=for-the-badge\&label=PROFILE+VIEWS)](https://github.com/Pritosh2387)
-
+[![Profile Views](https://hits.sh/github.com/Pritosh2387.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=8a2be2)](https://github.com/Pritosh2387)
 </div>
 
 ---
