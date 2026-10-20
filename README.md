@@ -22,16 +22,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pritosh2387&theme=radical" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pritosh2387&theme=radical" height="180" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
